@@ -45,6 +45,8 @@ namespace Test2
             }
         }
 
+
+           
         static int CountWordsInPlainText(string text)
         {
             // Split the text into words using spaces as delimiters
